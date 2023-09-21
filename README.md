@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gad Amr Gadelhaq</h1>
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZeYZW1JH04A/profile-displaybackgroundimage-shrink_350_1400/0/1695273111208?e=1700697600&v=beta&t=i7-vW02N1r2TeiGsgcvaFl6kSROPpBbGotEceiT9SmA)
+
+<h1 align="center">Hi 👋, I'm Gad Amr </h1>
 <h3 align="center">I am a 2TH YEAR student in Cairo university Majoring Computers and Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
