@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZeYZW1JH04A/profile-displaybackgroundimage-shrink_350_1400/0/1695273111208?e=1700697600&v=beta&t=i7-vW02N1r2TeiGsgcvaFl6kSROPpBbGotEceiT9SmA)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZeYZW1JH04A/profile-displaybackgroundimage-shrink_350_1400/0/1695273111208?e=1700697600&v=beta&t=i7-vW02N1r2TeiGsgcvaFl6kSROPpBbGotEceiT9SmA)
 
 <h1 align="center">Hi 👋, I'm Gad Amr </h1>
 <h3 align="center">I am a 2TH YEAR student in Cairo university Majoring Computers and Artificial Intelligence</h3>
