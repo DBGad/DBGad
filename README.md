@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/3mr_gad" target="blank"><img src="https://img.shields.io/twitter/follow/3mr_gad?logo=twitter&style=for-the-badge" alt="3mr_gad" /></a> </p>
 
-- 🔭 I’m currently working on **Expidea.com**
+- 🔭 I’m currently working on **Sparse Array**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
