@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/user-attachments/assets/d7a392ae-8999-4336-9033-dea4838f0b68)
-<h1 align="center">Hi 👋, I'm Gad Amr </h1>
 <h3 align="center">I am a 3TH YEAR student in Cairo university Majoring Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
