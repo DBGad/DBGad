@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms**
 
-- 💬 Ask me about **cpp, oop, python, Fundamentals of Computer Science, Data Structures and Algorithms**
+- 💬 Ask me about **cpp, oop, python, Fundamentals of Computer Science, Data Structures, Algorithms, .Net**
 
 - 📫 How to reach me **gadelhaq.work@gmail.com**
 
