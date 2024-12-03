@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/3mr_gad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3mr_gad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gad-amr-898967249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gad-amr-898967249" height="30" width="40" /></a>
-<a href="https://instagram.com/gad_3mr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gad_3mr_" height="30" width="40" /></a>
+<a href="https://twitter.com/izeyad_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3mr_gad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaadamr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gad-amr-898967249" height="30" width="40" /></a>
+<a href="https://instagram.com/izeyad_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gad_3mr_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/db_gad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="db_gad" height="30" width="40" /></a>
 </p>
 
