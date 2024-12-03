@@ -1,19 +1,19 @@
 ![MasterHead](https://github.com/user-attachments/assets/d7a392ae-8999-4336-9033-dea4838f0b68)
 <h1 align="center">Hi 👋, I'm Gad Amr </h1>
-<h3 align="center">I am a 2TH YEAR student in Cairo university Majoring Computers and Artificial Intelligence</h3>
+<h3 align="center">I am a 3TH YEAR student in Cairo university Majoring Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbgad&label=Profile%20views&color=0e75b6&style=flat" alt="dbgad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/3mr_gad" target="blank"><img src="https://img.shields.io/twitter/follow/3mr_gad?logo=twitter&style=for-the-badge" alt="3mr_gad" /></a> </p>
 
-- 🔭 I’m currently working on **Sparse Array**
+- 🔭 I’m currently working on **Data Analysis with Python**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **ML Algorithms**
 
-- 💬 Ask me about **cpp,oop,python,Fundamentals of Computer Science**
+- 💬 Ask me about **cpp, oop, python, Fundamentals of Computer Science, Data Structures and Algorithms**
 
-- 📫 How to reach me **ziad.zezo881@gmail.com**
+- 📫 How to reach me **gadelhaq.work@gmail.com**
 
 - ⚡ Fun fact **I think I am otaku**
 
