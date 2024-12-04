@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbgad&label=Profile%20views&color=0e75b6&style=flat" alt="dbgad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/3mr_gad" target="blank"><img src="https://img.shields.io/twitter/follow/3mr_gad?logo=twitter&style=for-the-badge" alt="3mr_gad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/izeyad_10" target="blank"><img src="https://img.shields.io/twitter/follow/3mr_gad?logo=twitter&style=for-the-badge" alt="3mr_gad" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analysis with Python**
 
